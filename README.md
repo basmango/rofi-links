@@ -1,5 +1,5 @@
 ## rofi-links
-A simple script that allows you to instantly open IIITD class links.
+A simple script that allows you to instantly open links using rofi.
 
 ### Installation
 1. Install rofi. 
