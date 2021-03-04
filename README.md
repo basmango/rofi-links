@@ -32,3 +32,6 @@ So, the format looks something like this:
 #### Editing existing entries
 To edit an existing entry, find the row corresponding to that entry in the .tsv file and replace/add the corresponding link.
 The link is extracted using regex, so no need to clean the data.
+
+### demo
+![demonstration](demo.gif)
